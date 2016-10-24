@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/ChildAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/GroupAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/ImageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/MyImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/NativeImageLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/imagescan/ShowImageActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

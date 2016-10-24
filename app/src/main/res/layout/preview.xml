@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#696464"
+        android:visibility="invisible">
+
+       <RelativeLayout
+           android:background="#696464"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <TextView
+               android:id="@+id/image_name"
+               android:text="dsd.joidsf"
+               android:textColor="#ffffff"
+               android:layout_centerVertical="true"
+               android:textSize="20sp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"/>
+
+           <Button
+               android:id="@+id/delete"
+               android:layout_alignParentRight="true"
+               android:layout_width="35dp"
+               android:background="@mipmap/ic_delete_black_48dp"
+               android:layout_height="wrap_content"
+               android:layout_marginRight="10dp"/>
+       </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+
+
+</LinearLayout>
